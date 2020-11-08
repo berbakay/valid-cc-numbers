@@ -20,13 +20,14 @@ run file
 enter credit card details - digits only, spaces and dashes will prompt the number to be asked for again.
 
 **Example Output**<br>
-Number:4012888888881881 
+Number:4012888888881881<br>
 VISA
 
 or
 
-Number:369421438430814
-INVALID
+Number:369421438430814<br>
+INVALID<br>
+
 **Requirements**<br>
 A dev environment that can compile and run C code.<br>
 CS50 Library https://cs50.readthedocs.io/libraries/cs50/c/
